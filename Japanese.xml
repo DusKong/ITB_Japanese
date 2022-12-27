@@ -1,0 +1,521 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Language name="Japanese">
+  <play>プレイ</play>
+  <settings>設定</settings>
+  <search_game>ゲームを検索</search_game>
+  <use_stairs>はしごを使う</use_stairs>
+  <open>開ける</open>
+  <read_note>ノートを開く</read_note>
+  <six_hands_note>情報:
+
+ケーブルでできていると思われる人型生物で、なぜかその場を支配していると思われる。
+
+近くにいると部屋の環境が変わり、電子機器や無線周波数に引き寄せられるようです。もし、あなたが同じエリアにいるとき、死にたくなければ十分に気を付けてください。
+
+参考文献:
+
+調査チームが撮影したこの写真では、部屋を徘徊しています。
+
+危険度 [4]
+</six_hands_note>
+  <almond_water_note>負傷していますか？アーモンド水を飲んで治してください。</almond_water_note>
+  <close>閉じる</close>
+  <anti_anxiety_pills>抗不安薬</anti_anxiety_pills>
+  <open_door>ドアを開ける</open_door>
+  <close_door>ドアを閉める</close_door>
+  <elevator_code_note>エレベーターコード。</elevator_code_note>
+  <press_button>ボタンを押す。</press_button>
+  <smiler_note>情報:
+
+闇に潜むその壁には、影から浮かび上がる謎の何か、「明るく微笑むもの」が隠れている。
+
+人間の目には見えない肉体を持っているという噂もある。それがすべての光源に引き付けられ、影の空虚に閉じ込められ、おそらく二度と光が見えないことだけが知られています。
+
+忘れないで！笑顔は必ずしも平和を示しているわけではありません。
+
+忘れないで！笑顔は必ずしも平和を示しているわけではありません。実際には、まったく逆です。
+
+参考文献:
+
+次の写真は、奥の部屋の暗い場所で撮影されました。
+
+危険度 [2]
+</smiler_note>
+  <flashlight_note>スタミナに気をつけて！
+死を免れることができるので、きちんと管理したほうがいいです！</flashlight_note>
+  <hide>隠れる</hide>
+  <paintings_note>いくつかの絵を見つけたら、よく見てください。絵には秘密のコードを隠されています。</paintings_note>
+  <exit>出口</exit>
+  <duct_message>ダクトを閉じるにはドライバーが必要です。</duct_message>
+  <full_item_message>これ以上持ち運ぶことはできません。</full_item_message>
+  <tv_message>現時点ではオンにできません</tv_message>
+  <interact>アクション/拾う</interact>
+  <shadow_note>シルエットを見てみた? but it is looking to the R? when is wrong...</shadow_note>
+  <pickup>{0} を拾う</pickup>
+  <smiler_note_tittle>極秘
+
+ファイル: 
+エンティティ #3 </smiler_note_tittle>
+  <six_hands_note_tittle>極秘
+
+ファイル: 
+未知のエンティティ  </six_hands_note_tittle>
+  <hound_note_tittle>極秘
+
+ファイル: 
+エンティティ #8   </hound_note_tittle>
+  <hound_note>情報:
+
+非常に奇妙な生き物が奥の部屋のダクトから出てくるのが発見されました。人型の特徴を持つ犬に似ています。
+
+非常に攻撃的で危険なことで知られていますが、騒音にも惹かれます、直接目を合わせると威圧されます。
+
+ですから、直面した時はおとなしくしてください、逃げることがあまり役に立たない場合があります。
+
+参考文献:
+
+誰も実体の写真を撮ることが出来なかったため、以下の写真はいくつかの証言から作成されました。
+
+危険度 [4] </hound_note>
+  <almond_water>アーモンドウォーター</almond_water>
+  <antique_key>アンティークキー</antique_key>
+  <bandage>包帯</bandage>
+  <calming_pills>鎮静剤</calming_pills>
+  <cassette>VHSテープ</cassette>
+  <clock_hands>時計の針</clock_hands>
+  <door_key>ドアの鍵</door_key>
+  <abecedary_code>暗号化入門</abecedary_code>
+  <ear>耳</ear>
+  <chocolate_bar>チョコレートバー</chocolate_bar>
+  <extinguisher>消火器</extinguisher>
+  <eye>目</eye>
+  <fingers>指</fingers>
+  <flashlight>懐中電灯</flashlight>
+  <foot>足</foot>
+  <fuse>ヒューズ</fuse>
+  <garage_card>ガレージのアクセスカード</garage_card>
+  <geiger_counter>ガイガーカウンター</geiger_counter>
+  <hammer>ハンマー</hammer>
+  <hand.>手</hand.>
+  <motion_sensor>モーショントラッカー</motion_sensor>
+  <nose>鼻</nose>
+  <notebook>メモ帳</notebook>
+  <party_hat>パーティーハット</party_hat>
+  <plier>ペンチ</plier>
+  <protection_suit>保護服</protection_suit>
+  <radio>ラジオ</radio>
+  <red_access_card>赤いアクセスカード</red_access_card>
+  <red_key>赤い鍵</red_key>
+  <screw_driver>ドライバー</screw_driver>
+  <single_fingers>一本の指</single_fingers>
+  <teeth>歯</teeth>
+  <valve>バルブのハンドル</valve>
+  <the_vases_note>この部屋の花瓶の1つに何かが入っていますが、手で割るのは難しいので、別の何か... おそらくハンマーが必要です。</the_vases_note>
+  <the_locker_code_note>死体を見てください、秘密のコードを隠しています...
+
+血だけ気をつけて...。</the_locker_code_note>
+  <the_levers_note>複数のレバーがありますが、同時に上げることができるのは3つまでです...
+</the_levers_note>
+  <skin_thief_note>情報:
+
+いくつかの奥の部屋で、あてもなくさまよっている生き物がいます。空腹になるまで意識がないようで、空腹になると攻撃的になり、肉を見つけるために最も近い対象を探し始めます。
+
+犠牲者の皮を剥ぎ、皮を盗むのが好きなため、他の生き物とは区別されます。
+
+遠くからでも血のにおいがすることが最近発覚しました。怪我をした場合は、すぐに治療しましょう。
+
+参考文献:
+
+次の写真は、人間の皮膚を持つ二足歩行生物です。写真は人肉の近くで発見されました。
+
+危険度 [6]</skin_thief_note>
+  <skin_thief_note_tittle>極秘
+
+ファイル: 
+エンティティ #10 </skin_thief_note_tittle>
+  <partygoer_note_tittle>極秘
+
+ファイル: 
+エンティティ #67</partygoer_note_tittle>
+  <partygoer_note>情報:
+
+人型の生物が奥の部屋に横たわり、パーティの道具で人々をだますのが好きですが、最終的には殺し、死体を集めて、人間の肉と骨の血まみれのケーキに変えます。
+
+パーティーバルーンが浮かんでいるのを見たら、すぐに逃げるのが最善の選択肢だと言われています。
+
+参考文献:
+
+次の写真は、遠征隊が殺される直前に撮影されたものです。その後、別の遠征グループによって回収されました。
+
+危険度 [6]
+</partygoer_note>
+  <clumps_note_tittle>極秘
+
+ファイル: 
+エンティティ #5</clumps_note_tittle>
+  <clumps_note>情報:
+
+この生物は複数の手足で構成されており、目も耳もありません。そのため攻撃される唯一の方法は、近づくことです。
+
+非常に危険で卑劣で、食べ物を探してグループで移動します。攻撃から免れるため常にモーション トラッカーを使用することをお勧めします。
+
+参考文献:
+
+次の写真は、遠征チームのメンバーによって撮影されました。
+
+危険度 [4]
+</clumps_note>
+  <the_safebox_note>金庫を開く方法:
+
+シリンダー番号を解除せずに:
+
+• ダイヤルを左または右に回し始めます
+• 次に反対方向に回します
+• さらに、反対方向に回します
+• それで...
+
+このパターンに従って、ダイヤルを回すと金庫を開くことが出来ます...
+</the_safebox_note>
+  <the_flipped_code_note>矢印はコードを示していますが、反転した部屋です...
+</the_flipped_code_note>
+  <pc_password_note>すべてのコンピューターを見ましたか?
+
+そのうちのいくつかは有益な情報を持っています。
+</pc_password_note>
+  <fusebox_note>電気的故障の場合は、ヒューズボックスにヒューズを追加して電源を入れ、必要に応じて電源を切ることができます。
+
+非常用ヒューズは、赤いドアのある部屋にあるツールボックスに取り付けられました。</fusebox_note>
+  <pool_warning_note>次のプールは完全に放射性で、水の下を取り囲む珍しい生き物もいっぱいです。</pool_warning_note>
+  <open_inventory>インベントリを開く</open_inventory>
+  <rotate_around>ポインタを回転</rotate_around>
+  <is_locked_message>ロックされています</is_locked_message>
+  <hour_note>時間は:
+
+</hour_note>
+  <unlock>ロック解除</unlock>
+  <lockpad_note>ロックパッドを見たことがありますか？
+{0}</lockpad_note>
+  <press>押す</press>
+  <elevador_code_note>これを試して:</elevador_code_note>
+  <use>使う</use>
+  <pinch_balloon_message>ポップバルーン</pinch_balloon_message>
+  <red_access_card_message>このドアのロックを解除するには赤いアクセスカードが必要です。</red_access_card_message>
+  <radiation_room_note_tittle>トップシークレット
+
+ファイル: 
+放射線室</radiation_room_note_tittle>
+  <radiation_room_note>重要:
+
+次のエリアは完全に放射性であるため、入る場合は防護服が必要です。そうしないと、放射線で死亡する可能性があります.
+
+詳細:
+
+部屋の放射線レベルが低い場合にのみ開くロックされたドアがあります。
+
+ロック解除するには、クラスD消火器が必要です。短時間放射線を除去します。 (約3分)
+
+放射線源:
+
+部屋のいくつかのアイテムは汚染されています。ガイガーカウンターを使用して、汚染源を確認します。
+</radiation_room_note>
+  <vulve_message>漏れを閉じるには、右に回さなければなりません...</vulve_message>
+  <fusebox_message_1>まず、すべてのヒューズを入れる必要があります...</fusebox_message_1>
+  <fusebox_message_2>ヒューズがいくつか欠品しているようです。</fusebox_message_2>
+  <revive_message_1>心拍を追跡し、</revive_message_1>
+  <revive_message_2>光る扉を見つけて生き返れ...</revive_message_2>
+  <drop>落とす</drop>
+  <information>情報</information>
+  <almond_water_information>この水は自分自身を治療するために使用します。</almond_water_information>
+  <antique_key_information>アンティークの鍵。これにより、アンティークのドアが開きます。</antique_key_information>
+  <bandage_information>傷を治療するために使用されます。</bandage_information>
+  <calming_pills_information>これらの薬は不安を軽減させるために使います。</calming_pills_information>
+  <cassette_information>ビデオ テープ。VHS プレーヤーを備えたテレビで再生する必要があります。</cassette_information>
+  <clock_hands_information>古い時計に差し込まれている時計の針</clock_hands_information>
+  <door_key_information>この鍵で施錠されたドアが開きます。</door_key_information>
+  <abecedary_code_information>長いコードの解読に使用できる暗号の入門書</abecedary_code_information>
+  <ear_information>耳</ear_information>
+  <fingers_information>いくつかの指。</fingers_information>
+  <flashlight_information>暗い場所を照らすのに便利な懐中電灯。</flashlight_information>
+  <foot_information>足</foot_information>
+  <fuse_information>ヒューズボックスに挿入して電源を復活させることができます。</fuse_information>
+  <garage_access_card_information>ガレージドアを開けるためのアクセスカード。</garage_access_card_information>
+  <geiger_counter_information>汚染された物体の放射線レベルをチェックするのに便利な装置です。</geiger_counter_information>
+  <hammer_information>いくつかのオブジェクトを壊すために使用できます...</hammer_information>
+  <hand_information>手</hand_information>
+  <motion_sensor_information>最も近いエンティティがどこにいるかを示す便利なデバイス。</motion_sensor_information>
+  <nose_information>鼻</nose_information>
+  <party_hat_information>変な場所で見つけた帽子...</party_hat_information>
+  <plier_information>チェーンを切断するのに役立ちます。</plier_information>
+  <protection_suit_information>放射線から身を守るための非常に便利なスーツ。</protection_suit_information>
+  <radio_information>通信デバイス。</radio_information>
+  <red_access_card_information>赤いドアのアクセスカード。</red_access_card_information>
+  <red_key_information>赤い扉を開ける鍵</red_key_information>
+  <screw_driver_information>通気口を閉じるために使用する。</screw_driver_information>
+  <single_finger_information>指。</single_finger_information>
+  <teeth_information>いくつかの歯...</teeth_information>
+  <valve_information>バルブの漏れを閉じるために使用します。</valve_information>
+  <door_item_message>このドアを開けるには {0} が必要です</door_item_message>
+  <start_level>開始レベル</start_level>
+  <cancel>キャンセル</cancel>
+  <start_game>ゲームスタート</start_game>
+  <max_players>最大人数</max_players>
+  <server_name>ゲーム名</server_name>
+  <server_type>サーバータイプ</server_type>
+  <join_error_message>ゲームに参加できませんでした</join_error_message>
+  <loading>ロード中</loading>
+  <graphics>グラフィックス</graphics>
+  <screen>スクリーン</screen>
+  <language>言語</language>
+  <graphics_quality>画質</graphics_quality>
+  <volumetric_lights>ボリュームライト</volumetric_lights>
+  <resolution>解像度</resolution>
+  <screen_mode>画面モード</screen_mode>
+  <volume>ゲーム音量</volume>
+  <amb_volume>周囲の音量</amb_volume>
+  <music_volume>音楽の音量</music_volume>
+  <show_names>ニックネームの表示</show_names>
+  <voice_volume>声量</voice_volume>
+  <voice_chat>ボイスチャット</voice_chat>
+  <apply>適用</apply>
+  <move>移動</move>
+  <run>走る</run>
+  <crouch>しゃがむ</crouch>
+  <inventory>インベントリ</inventory>
+  <unequip>装備解除</unequip>
+  <controls>コントロール</controls>
+  <players>プレイヤー</players>
+  <level>レベル</level>
+  <empty_games>ゲームが見つかりません</empty_games>
+  <refresh_list>リストを更新</refresh_list>
+  <join>join</join>
+  <connecting>ゲームに接続中...</connecting>
+  <join_game>ゲームに参加</join_game>
+  <mouse_sens>マウス感度</mouse_sens>
+  <full_item_message>これ以上持てません</full_item_message>
+  <hide_locked_message>誰かが中にいる</hide_locked_message>
+  <turn_on>オンにする</turn_on>
+  <turn_on_locked>電源を入れることができません。</turn_on_locked>
+  <needs_electricity>使用には電気が必要</needs_electricity>
+  <blow_candles>ろうそくを吹く</blow_candles>
+  <open_gift>オープンギフト</open_gift>
+  <corpses_note>この場所で発見され積み上げられた行方不明の人々についてであり、彼らの体のいくつかは異常で発見されました.
+
+詳細については、VHS テープを探してください。</corpses_note>
+  <corpses_note_title>死体</corpses_note_title>
+  <locker_code_note_title>ロッカーコード</locker_code_note_title>
+  <vases_note_title>花瓶</vases_note_title>
+  <paintings_note_title>絵画</paintings_note_title>
+  <radiation_room_note_title>ファイル:
+放射線室</radiation_room_note_title>
+  <levers_note_title>レバー</levers_note_title>
+  <shadow_note_title>影</shadow_note_title>
+  <stamina_note_title>スタミナに気をつけて！！！</stamina_note_title>
+  <stamina_note>死亡を回避できるので、正しく管理してください！</stamina_note>
+  <safebox_note_title>金庫</safebox_note_title>
+  <flipped_code_note_title>コード</flipped_code_note_title>
+  <pc_password_note_title>パスワード</pc_password_note_title>
+  <pool_note_title>警告！！</pool_note_title>
+  <exinguisher_information>クラスD消火器で、物体の放射線を一時的に減らすために使用できます。</exinguisher_information>
+  <eye_information>目玉。</eye_information>
+  <notebook_information>現在のタスクを確認するのに便利なメモ帳。</notebook_information>
+  <unequip_suit>スーツを脱ぐ</unequip_suit>
+  <unequip_hat>帽子を外す</unequip_hat>
+  <continue>続ける</continue>
+  <use_radio>ラジオを使う</use_radio>
+  <use_flashlight>懐中電灯を使う</use_flashlight>
+  <open_notes>メモを開く</open_notes>
+  <moth_jelly>蛾のゼリー</moth_jelly>
+  <moth_jelly_information>非常に珍しいゼリーで、食べるとエネルギーがブーストされます。</moth_jelly_information>
+  <drag_items_message>アイテムをドラッグして使用する</drag_items_message>
+  <fusebox_note_tittle>ヒューズボックス</fusebox_note_tittle>
+  <suitcase>{0} スーツケース</suitcase>
+  <clock_puzzle_hint>時計の針がなくなったようです...</clock_puzzle_hint>
+  <chain_puzzle_hint>鍵のない鎖...工具で切れるかも</chain_puzzle_hint>
+  <pot_puzzle_hint>これは何かで壊れるかも...</pot_puzzle_hint>
+  <fuse_puzzle_hint_missed>どうやら一部のヒューズが欠品しているようです。</fuse_puzzle_hint_missed>
+  <fuse_puzzle_hint>すべてのヒューズが入っているので、電源を入れることができます</fuse_puzzle_hint>
+  <fuse_puzzle_hint_2>まず、すべてのヒューズを入れる必要があります...</fuse_puzzle_hint_2>
+  <pc_puzzle_hint>動作しているようですが、パスワードが必要です...</pc_puzzle_hint>
+  <blue_door_message>青い扉が開いた</blue_door_message>
+  <valve_puzzle_hint>漏れを止めるにはバルブが必要なようです...</valve_puzzle_hint>
+  <tray_puzzle_hint>それは名前です</tray_puzzle_hint>
+  <you_died>あなたは死亡しました</you_died>
+  <is_dead_message>{0} は死亡しました</is_dead_message>
+  <is_alive_message>{0} は復活しました</is_alive_message>
+  <connected_message>{0} 接続しました</connected_message>
+  <disconnected_message>{0} 切断されました</disconnected_message>
+  <escaped_message>{0} は部屋から脱出しました</escaped_message>
+  <whistle>ホイッスル</whistle>
+  <invite>プレイヤーを招待</invite>
+  <ambient_occlusion>アンビエント オクルージョン</ambient_occlusion>
+  <audio>オーディオ</audio>
+  <fps_limit>FPS制限</fps_limit>
+  <press_talk>プッシュトゥートーク</press_talk>
+  <always_on>常にオン</always_on>
+  <game>ゲーム</game>
+  <antialiasing>アンチエイリアス</antialiasing>
+  <low>低</low>
+  <medium>中</medium>
+  <high>高</high>
+  <ultra>ウルトラ</ultra>
+  <disabled>非表示</disabled>
+  <vhs_subtitle_1>無線信号を受信した直後に救助隊が派遣されました。</vhs_subtitle_1>
+  <vhs_subtitle_2>残念ながら、目的地に到着したとき、合計9体の遺体が発見された</vhs_subtitle_2>
+  <vhs_subtitle_3>すべての遺体を集め、空の部屋に積み上げました。</vhs_subtitle_3>
+  <vhs_subtitle_4>いくつかの遺体には異常が見られました。</vhs_subtitle_4>
+  <vhs_subtitle_5>異常は次の通りです。</vhs_subtitle_5>
+  <vhs_ear_subtitle>前の被験者は左耳なしで発見されました。</vhs_ear_subtitle>
+  <vhs_eye_subtitle>前の被験者は目なしで発見されました。</vhs_eye_subtitle>
+  <vhs_fingers_subtitle>前の被写体は指が何本か無い状態で発見されました。</vhs_fingers_subtitle>
+  <vhs_foot_subtitle>前の被験者は左足なしで発見されました。</vhs_foot_subtitle>
+  <vhs_hand_subtitle>前の被写体は右手なしで見つかりました。</vhs_hand_subtitle>
+  <vhs_nose_subtitle>前の被験者は鼻なしで発見されました。</vhs_nose_subtitle>
+  <vhs_teeth_subtitle>前の被験者は歯がない状態で発見されました。</vhs_teeth_subtitle>
+  <door_locked>ドアロック</door_locked>
+  <lobby_waiting>ホストを待っています...</lobby_waiting>
+  <select_skin>スキンを選択</select_skin>
+  <creating_game>ゲームを作成</creating_game>
+  <invert_mouse>マウスを反転</invert_mouse>
+  <doctor_dialog_1>信じられない！目が覚めた！</doctor_dialog_1>
+  <doctor_dialog_2>今どこにいるのか気になると思います。あなたが気絶している所を発見され、すぐに私たちの病院に運ばれました</doctor_dialog_2>
+  <doctor_dialog_3>その事件は約2年前に起こりました。</doctor_dialog_3>
+  <doctor_dialog_4>あなたは2年近く昏睡状態に陥っていました。あなたが昏睡状態から目覚めたきっかけは何だったのか、とても興味がある...</doctor_dialog_4>
+  <doctor_dialog_5>ずっと、何かを夢見ていましたか？思い出すことはありますか？</doctor_dialog_5>
+  <doctor_dialog_6>聞いてください、大丈夫です 慣れるまで少し時間を経ってから、また質問します</doctor_dialog_6>
+  <doctor_dialog_7>安心してください、あなたが戻ってきた事は本当に素晴らしいことです。</doctor_dialog_7>
+  <host>ホスト</host>
+  <singleplayer>シングルプレイ</singleplayer>
+  <microphone>マイクロフォン</microphone>
+  <corpse_arm>腕</corpse_arm>
+  <arm_description>ボディアーム</arm_description>
+  <loot>戦利品</loot>
+  <is_lost_message>{0} は部屋で迷子になりました</is_lost_message>
+  <grid_note>グリッドを開きたい場合は、メイン PC に次のコードを導入します。: </grid_note>
+  <end_time_message>クリア時間 {0}時間 {1}分</end_time_message>
+  <end_escape_message>部屋から脱出した</end_escape_message>
+  <end_funlevel_message>フレッシュフレッシュケーキ</end_funlevel_message>
+  <alternative_ending>別エンディング</alternative_ending>
+  <bucket>バケツ</bucket>
+  <human_flesh>人肉</human_flesh>
+  <needs_bucket_msg>これを拾うにはバケツが必要です</needs_bucket_msg>
+  <sewer_key>下水道の鍵</sewer_key>
+  <sewer_key_info>下水道のドアを開ける鍵</sewer_key_info>
+  <gear>ギア</gear>
+  <gear_info>ギアピース。</gear_info>
+  <gear_lever_handle>ギアハンドル</gear_lever_handle>
+  <gear_handle_info>一部のギアを操作するために使用できるレバー。</gear_handle_info>
+  <petrolcan_empty>ガソリン缶【空】</petrolcan_empty>
+  <petrolcan_empty_info>ガソリンを入れられる空き缶。</petrolcan_empty_info>
+  <petrolcan>ガソリン缶</petrolcan>
+  <no_lives>これ以上の生活</no_lives>
+  <lives_msg>生存 {0}/{1}</lives_msg>
+  <difficulty>難易度</difficulty>
+  <easy>イージー</easy>
+  <normal>ノーマル</normal>
+  <hard>ハード</hard>
+  <texture_stream>テクスチャ ストリーミング</texture_stream>
+  <medallion>メダリオン</medallion>
+  <medallion_info>フィギュア付きのメダリオン、どこかに差し込める...</medallion_info>
+  <metal_detector>金属探知機</metal_detector>
+  <metal_detector_info>近くに金属の物体があるかどうかを検出するデバイス。</metal_detector_info>
+  <cake_recipe>ケーキのレシピ</cake_recipe>
+  <cake_recipe_note>材料:
+
+魚のヒレ 7個
+足 5個
+目 6個
+
+秘密の材料 1個...</cake_recipe_note>
+  <sit_down>座る</sit_down>
+  <head>頭</head>
+  <sewer_storage_key>鍵 【下水道倉庫】</sewer_storage_key>
+  <watertreat_room_key>鍵 【廃棄物処理室】</watertreat_room_key>
+  <fun_door_key>キー [楽しい秘密のドア]</fun_door_key>
+  <locker_lockpad_note>誰かがロックパッド付きのロッカーを見つけた場合は、次のコードを使用して開けてください: {0} あのロッカーから荷物を取り出すのを忘れました。</locker_lockpad_note>
+  <parrot_medallion>メダリオン 【オウム】</parrot_medallion>
+  <rat_medallion>メダリオン [ネズミ]</rat_medallion>
+  <fish_medallion>メダリオン 【魚】</fish_medallion>
+  <insert_message>ここに何かを挿入できます...</insert_message>
+  <needed_item_msg>やり取りするには {0} が必要です</needed_item_msg>
+  <treat_canal_title>治療用運河</treat_canal_title>
+  <treat_canal_note>それらの生き物は向こう側に渡ることを許しません。なので、気絶させる方法を見つける必要があります。しかし、まだ方法を見つけていません...おそらく油で水を汚染しています...</treat_canal_note>
+  <sewer_hint_note>誰かがこのメモを読んだ場合、攻撃的な生き物で非常に暗く怪しげな領域に入ろうとしていることを注意しなければなりません。逃げようとしている間、無数の死体を見つけました。死体の多くには、この地獄から抜け出すのに役立つ重要なオブジェクトが含まれています。残念ながら、生き物の1匹が私を噛みました。私はエネルギーを使い果たし、これ以上続けることができません。あなたが私よりも幸運であることを願っています...</sewer_hint_note>
+  <barrels_note_title>樽</barrels_note_title>
+  <barrels_note>これらのバレルの1つにはまだオイルが入っています。オイルがいっぱいかどうかを確認するには、叩くだけで十分です。コンテナからオイルを抽出するには、ドラム缶が必要です。</barrels_note>
+  <rats_distract_note>それらの生き物はほとんど私に届きました. 幸いなことに、彼らは床にあった肉片で気を散らしました. おかげで私は生きています...</rats_distract_note>
+  <emblems_note>私は疲れ果ててしまいました...あらゆる場所を探しましたが、3つの壁にあるはずのエンブレムを見つけることができません。主要なチャンネルは水没しているかどうかを確認するだけで済みますが、それらの濁った水はそうではありません。底を見てください。金属探知機があればもっと簡単だったのに...</emblems_note>
+  <canals_note>誰かが水処理室で腕を持って歩き回っている生き物を見たら、すべての水路に油を入れてください。数分間気絶します</canals_note>
+  <deathrat_note_tittle>極秘.
+
+ファイル:  エンティティ #25</deathrat_note_tittle>
+  <deathrat_note>情報: 
+
+排水路の深いトンネルには邪悪な生き物がいます...外光を知らなかったので、生き残るためにこの暗く湿気の多い邪魔な環境に適応し、体は感染症でいっぱいで、鼻は悪性菌でいっぱいです。
+
+参考文献:
+
+彼らは非常に攻撃的で、盲目ですが、どんな騒音にも非常に敏感な聴力を持っています。私たちは終わりのない湿ったトンネルの真ん中にいる新鮮な肉です.
+
+危険度: [6]</deathrat_note>
+  <petrolcan_filled>ガソリン缶【満タン】</petrolcan_filled>
+  <bucket_info>物を拾うのに使えるバケツ...</bucket_info>
+  <wastetreat_room_key>キー [ウォータートリート]</wastetreat_room_key>
+  <sewer_exit_key>キー [下水道出口]</sewer_exit_key>
+  <head_info>人間の頭...</head_info>
+  <old_key_info>ドアを開けることができる古いキー...</old_key_info>
+  <is_empty>空です...</is_empty>
+  <storage_connectors_note>気をつけて！！スパイクトラップで閉じられたパスがありますが、スパイクの動作を停止する方法を見つけました。次の順序でストレージルームのケーブルを接続するだけです。:</storage_connectors_note>
+  <crushers_note>クラッシャー...反対側に渡ることは不可能に見えますが、方法はあります... 3x3 フレームを見つけて、数字を正しい順序で配置するだけで、止めることができます。</crushers_note>
+  <crushers_note_title>ごみクラッシャー</crushers_note_title>
+  <gears_note>3つのギアが2つのサイド カウンターウェイトを支配します。レバーを使用して、下のボタンを押すところまで下げる必要があります。両方のライトが緑色の場合、セルの内部スパイクが上昇します。残りの歯車とレバーを見つけて、メカニズムをアクティブにします。</gears_note>
+  <gears_note_title>歯車</gears_note_title>
+  <item_trash_note>廃墟の部屋を探索していると、突然恐ろしい生き物が見えた 逃げ出した時に見つけたレバーを落とした。ここから出ることが重要だと思うが、再びその部屋に入るのが怖い...</item_trash_note>
+  <bars_note>やっと割りました！それは2つの別々のパスを持つバーとボタンでいっぱいの迷路です。各パスは他のパスによって補完されます。つまり、ボタンで道を譲らなければなりません。少しずつこの迷宮の終わりに近づくように、ボタンを押して、それほど離れないようにすることが非常に重要です...それは害になる可能性があります。</bars_note>
+  <medallion_order_note>私は生存者を見つけ、彼は失われたメダリオンを治療室に配置する方法を示す像について教えてくれましたが、いくつかの動くクラッシャーを通過する必要があります。これが完了すると、秘密のコンパートメントが開きます。</medallion_order_note>
+  <grid_note_title>グリッドコード</grid_note_title>
+  <grid_gate_message>セキュリティドアが開いています...</grid_gate_message>
+  <blue_color>青</blue_color>
+  <green_color>緑</green_color>
+  <pink_color>ピンク</pink_color>
+  <red_color>赤</red_color>
+  <white_color>白</white_color>
+  <yellow_color>黄色</yellow_color>
+  <cablenote_sewerexit_right>ケーブルコード: 下水道出口右</cablenote_sewerexit_right>
+  <cablenote_sewerexit_left>ケーブルコード: 下水道出口左</cablenote_sewerexit_left>
+  <cablenote_storage>ケーブルコード: ストレージ</cablenote_storage>
+  <exploration_team_dialogue>もう1つ...取り戻そう。</exploration_team_dialogue>
+  <gear_dialogue>ギアレバーの角度を忘れたら...</gear_dialogue>
+  <petrolcan_filled_info>フルドラム</petrolcan_filled_info>
+  <no_players_alive>誰も生きていません。</no_players_alive>
+  <partygoer_ending_text>ケーキを仕上げるのにドキドキします。</partygoer_ending_text>
+  <grid_crusher_note>警告:  
+
+3x3 フレーム番号が正しい場合、クラッシャーは動作を停止します。</grid_crusher_note>
+  <candy_bowl>キャンディーボウル</candy_bowl>
+  <triangle>三角形</triangle>
+  <square>四角</square>
+  <circle>円型</circle>
+  <pentagon>五角形</pentagon>
+  <spikes_information>一部のゾーンを保護するために、セキュリティパイクトラップが回廊に沿って構築されました。誰かが無効にしたい場合は、保管室にケーブルを接続する必要があります。これにより、スパイクが停止するはずです...</spikes_information>
+  <spikes_note_title>スパイク情報:</spikes_note_title>
+  <text_chat>チャットを開く</text_chat>
+  <words_filter>テキストチャットの検閲</words_filter>
+  <gift_missing_title>プレゼント不足！！</gift_missing_title>
+  <gift_missing_note>やんちゃなノームたちが木からプレゼントを盗んでしまいました！それを見つけてください...彼らの笑い声やベルに導かれ、シルエットを探し、見つけたら雪玉を投げてギフトを解放してください！
+
+次の各エリアで2つのノームを見つける:
+
+暗い部屋
+事務室
+パーキング</gift_missing_note>
+  <gift_missing_title>ギフトのタイトルがありません</gift_missing_title>
+  <gift_missing_note>プレゼント紛失注意</gift_missing_note>
+  <snowball_info>スノーボール！楽しんで、いたずらなノームを投げて気絶させてください。</snowball_info>
+  <snowball>スノーボール</snowball>
+  <christmas_gift>クリスマスプレゼント</christmas_gift>
+  <christmas_gift_info>ノームに盗まれたギフトをクリスマス ツリーに戻して、報酬を獲得しましょう!</christmas_gift_info>
+  <keyboard>キーボード &amp; マウス</keyboard>
+  <controller>コントローラー</controller>
+  <nickname_emblem>愛称エンブレム</nickname_emblem>
+  <cosmetic>コスメチック</cosmetic>
+</Language>
